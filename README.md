@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Dito 👋
 
-<!--
-**dito16/dito16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Backend Engineering & Automation**
 
-Here are some ideas to get you started:
+📍 Tbilisi, Georgia | 🌍 Open to remote opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build web applications, backend services, APIs, and automation systems. I focus on reliable architecture, clean code, and practical solutions to complex problems.
+
+### 🛠 Tech Stack
+
+- **Backend:** Python, FastAPI, Django, Node.js, NestJS, PHP, Laravel
+- **Frontend:** TypeScript, JavaScript, React, Next.js, Vue.js
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+- **Tools:** Git, REST APIs, automated testing
+
+### 💡 Areas of Interest
+
+Backend engineering, workflow automation, data processing, system integration, and full-stack product development.
+
+### 🤝 Let's Connect
+
+I'm open to remote software engineering positions, contract projects, and startup opportunities.
+
+Find my LinkedIn profile through the social links on my GitHub page.
