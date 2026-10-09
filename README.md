@@ -21,4 +21,6 @@ Backend engineering, workflow automation, data processing, system integration, a
 
 I'm open to remote software engineering positions, contract projects, and startup opportunities.
 
-Find my LinkedIn profile through the social links on my GitHub page.
+- 💼 [LinkedIn](https://www.linkedin.com/in/dito-bukia)
+- ✈️ [Telegram](https://t.me/dtsik)
+- 💬 [WhatsApp](https://wa.me/995551715200)
